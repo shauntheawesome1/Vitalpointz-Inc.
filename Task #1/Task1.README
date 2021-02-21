@@ -1,0 +1,32 @@
+Task: Create and Implement a REST API Server in a Linux machine (virtualization). Do a couple of calls to the server.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Virtualization Tool Used: OracleVM
+Linux OS: Ubuntu
+
+
+
+
+I used 2 terminal sessions; one for developing the program/running it, the other to call some functions of the API.
+
+       
+
+
+
+                                                   My REST API: api.py
+
+            				    Data:							                                  			             Array of accounts (size 2)
+      Each account has string name and int ID number		
+
+					 Functions:
+		                  getAccounts(): returns ALL accounts
+                      getAccount(accountnumber): returns details of the specified account
+			    addAccount(): adds an account to the account array
+		
+
+
+
+
+
+The getAccounts() and getAccount(int) functions used the GET method, while the addAccount used the POST method.
+
