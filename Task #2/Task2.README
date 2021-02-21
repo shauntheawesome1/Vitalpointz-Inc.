@@ -1,0 +1,9 @@
+Task: Create and Implement a REST API Server in a Linux machine (virtualization). The client side should be able to send bash commands to the server side. The server side executes the commands, and returns the output to the client side.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Virtualization Tool Used: OracleVM
+Linux OS: Ubuntu
+
+
+I used 3 terminal sessions; one for the server side, the other for the client side, and one to monitor the code of the program
+
